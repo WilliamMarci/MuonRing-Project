@@ -1,3 +1,4 @@
 data/*
+!data
 .vscode
-source/terminated
+src/terminated
