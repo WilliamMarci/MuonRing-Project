@@ -1,0 +1,1 @@
+g++ -I include/ -shared -o include/mycsv.so include/mycsv.cpp

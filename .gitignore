@@ -1,6 +1,14 @@
 .gitignore
-data/*
 .vscode
-src/terminated
+conf/*
+# conf/sources.root
+data/*.csv
+data/*.root
+include/*.so
+# conf/*.root
+# src/terminated
+plots/exportEnergySpectrum_cpp.d
+plots/exportEnergySpectrum_cpp.so
 
-!data
+figures/*.png
+
